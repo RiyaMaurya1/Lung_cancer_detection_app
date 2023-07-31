@@ -8,7 +8,6 @@ openpyxl==3.0.10
 scipy==1.10.0
 tensorflow==2.13.0
 tensorflow-estimator==2.13.0
-tensorflow-intel==2.13.0
 tensorflow-io-gcs-filesystem==0.31.0
 termcolor==2.3.0
 streamlit==1.24.1
